@@ -346,3 +346,4 @@ D:\4.HK3_2025\LapTrinhWeb_NC\ThucHanh\Buoi_1\SportsStore\bin\Debug\net9.0\zh-Han
 D:\4.HK3_2025\LapTrinhWeb_NC\ThucHanh\Buoi_1\SportsStore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\4.HK3_2025\LapTrinhWeb_NC\ThucHanh\Buoi_1\SportsStore\bin\Debug\net9.0\System.Formats.Asn1.dll
 D:\4.HK3_2025\LapTrinhWeb_NC\ThucHanh\Buoi_1\SportsStore\bin\Debug\net9.0\System.Text.Json.dll
+D:\4.HK3_2025\LapTrinhWeb_NC\ThucHanh\Buoi_1\SportsStore\obj\Debug\net9.0\SportsStore.sourcelink.json
