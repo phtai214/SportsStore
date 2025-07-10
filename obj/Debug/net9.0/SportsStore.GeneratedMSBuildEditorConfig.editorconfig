@@ -60,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cX0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/4.HK3_2025/LapTrinhWeb_NC/ThucHanh/Buoi_1/SportsStore/Pages/Admin/IdentityUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSWRlbnRpdHlVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/4.HK3_2025/LapTrinhWeb_NC/ThucHanh/Buoi_1/SportsStore/Pages/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -72,6 +76,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGxldGVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/4.HK3_2025/LapTrinhWeb_NC/ThucHanh/Buoi_1/SportsStore/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/4.HK3_2025/LapTrinhWeb_NC/ThucHanh/Buoi_1/SportsStore/Pages/_CartLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0NhcnRMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -82,6 +90,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/4.HK3_2025/LapTrinhWeb_NC/ThucHanh/Buoi_1/SportsStore/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/4.HK3_2025/LapTrinhWeb_NC/ThucHanh/Buoi_1/SportsStore/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/4.HK3_2025/LapTrinhWeb_NC/ThucHanh/Buoi_1/SportsStore/Views/Home/Index.cshtml]
